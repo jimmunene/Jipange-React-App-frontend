@@ -21,14 +21,14 @@ const Homepage = () => {
       <CardActionArea>
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            “I do believe it’s time for another adventure.”
+            “your events should not disorient your day.we will plan everything!.”
           </Typography>
         </CardContent>
         <CardMedia
           component="img"
           height="400"
-          image="https://news.microsoft.com/wp-content/uploads/prod/sites/382/2020/10/GettyImages-1166906300.jpg"
-          alt="Northern Lights"
+          image="https://unsplash.com/photos/NvZvtjn6Wrg"
+          alt="planner"
         />
       </CardActionArea>
     </Card>
