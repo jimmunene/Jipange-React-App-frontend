@@ -71,4 +71,4 @@ const NewItemForm = ({ onHandleAddItem, categories }) => {
     )
 }
 
-export default NewItemForm
+export default NewItemForm;
