@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#Jipange-react frontend
+>>>>>>> 48c797202282fc72a6bde53828338a7dfa1c01d6
 Create a new repository in a separate folder with a React app for your frontend. cd out of the backend project directory, and use create-react-appLinks to an external site. to generate the necessary code for your React frontend:
 
 npx create-react-app my-app-frontend
@@ -34,4 +38,8 @@ header
 homepage
 event
 new category form
+<<<<<<< HEAD
 new item form
+=======
+new item form
+>>>>>>> 48c797202282fc72a6bde53828338a7dfa1c01d6
