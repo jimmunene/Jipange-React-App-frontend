@@ -15,7 +15,7 @@ const App = () => {
   const [isDeletingCategory, setIsDeletingCategory] = React.useState(false);
 
   React.useEffect(() => {
-    document.title = "Bucket List | Home";
+    document.title = "Jipange APP | Home";
     
     fetch(dataURL)
     .then(res => res.json())

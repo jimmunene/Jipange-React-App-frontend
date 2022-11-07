@@ -7,14 +7,14 @@ const Homepage = () => {
       <CardActionArea>
         <CardContent>
           <Typography gutterBottom variant="h5"  component="div" >
-          “I do believe it’s time for another adventure.”
+          “Dont stress about your events.Tulia tukupange!!.”
           </Typography>          
         </CardContent>
         <CardMedia
           component="img"
           height="400"
-          image="https://news.microsoft.com/wp-content/uploads/prod/sites/382/2020/10/GettyImages-1166906300.jpg"
-          alt="Northern Lights"
+          image="https://images.unsplash.com/photo-1620608964186-18a8cfc2ad44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBsYW5uZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+          alt="planner"
         />
       </CardActionArea>
     </Card>    

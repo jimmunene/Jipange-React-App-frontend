@@ -33,7 +33,7 @@ const Header = ({categories, setIsAddingCategory, setIsDeletingCategory, isDelet
                 <Button variant="outlined" size="small" name="add" onClick={handleClickAdd} >+</Button>
             </Stack>
                 <Button variant="text" size="large" color="error" name="delete" onClick={handleClickDelete}>
-                    {isDeletingCategory ? "No-No Cancel!" : "Want to remove a category from the list? Click here!"}
+                    {isDeletingCategory ? "No-No Cancel!" : "Click here!To delete a category"}
                 </Button>
         </Box>
     )
