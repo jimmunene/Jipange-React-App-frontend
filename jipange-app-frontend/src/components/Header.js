@@ -26,7 +26,7 @@ const Header = ({
 
   const handleClickDelete = () => {
     setIsDeletingCategory(!isDeletingCategory);
-  };
+  };npm install react-router-dom
 
   const categoryButtons = categories.map((category) => (
     <Button
