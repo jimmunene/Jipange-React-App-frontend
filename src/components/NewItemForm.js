@@ -5,7 +5,7 @@ import { styled } from '@mui/material/styles';
 import { Box, TextField, Button, Select, MenuItem, FormControl, InputLabel } from '@mui/material'
 
 const SubmitButton = styled(Button)({
-  backgroundColor: 'paper',
+  backgroundColor: 'green',
   color: 'white',
   fontSize: '1.5rem',
   border: '1px solid white',

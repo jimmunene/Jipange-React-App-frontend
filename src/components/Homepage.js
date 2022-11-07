@@ -6,8 +6,8 @@ const Homepage = () => {
       <Card sx={{display: 'flex', flexWrap: 'wrap', maxWidth: 600, ml: 50, borderColor: "primary.main"}}>
       <CardActionArea>
         <CardContent>
-          <Typography gutterBottom variant="h5"  component="div" >
-          “Dont stress about your events.Tulia tukupange!!.”
+          <Typography gutterBottom variant="h6"  component="div" >
+          “Don't stress about your events.Welcome to Jipange!!.”
           </Typography>          
         </CardContent>
         <CardMedia

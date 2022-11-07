@@ -8,10 +8,10 @@ const Header = ({categories, setIsAddingCategory, setIsDeletingCategory, isDelet
     const handleClickNavigate = (e) => {
         if (e.target.name === 'home'){
             navigate('/')
-            document.title = "Bucket List | Home";
+            document.title = "Jipange App | Home";
         } else{
             navigate(`/${e.target.name}`)
-            document.title = `Bucket List | ${e.target.name}`
+            document.title = `Jipange App | ${e.target.name}`
         }
     }
 
