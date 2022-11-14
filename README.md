@@ -1,4 +1,3 @@
-# Cuisinier-react-recipe-app
 Live link on Vercel
 (https://jipange-react-app-frontend.vercel.app/)
 
